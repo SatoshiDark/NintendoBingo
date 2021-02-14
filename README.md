@@ -1,4 +1,6 @@
-# bingones
+# Bingo Machine Go
+This is a bingo selector for the nintendo bingo.
+Nintendo owns the copyright of these characters.
 
 ## Project setup
 ```
